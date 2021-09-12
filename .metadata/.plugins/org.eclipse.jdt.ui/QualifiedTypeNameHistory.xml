@@ -31,6 +31,8 @@
     <fullyQualifiedTypeName name="javax.transaction.Transactional"/>
     <fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
     <fullyQualifiedTypeName name="com.devsuperior.dsvendas.entities.Seller"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.Query"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.devsuperior.dsvendas.dto.SaleSumDTO"/>
+    <fullyQualifiedTypeName name="com.devsuperior.dsvendas.dto.SaleSucessDTO"/>
 </qualifiedTypeNameHistroy>
