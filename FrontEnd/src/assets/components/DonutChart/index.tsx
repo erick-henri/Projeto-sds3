@@ -20,7 +20,6 @@ const DonutChart = () => {
             const mySeries = data.map(x => x.sum);
             console.log(Response.data);
             setChartData({ labels: myLabels, series: mySeries });
-            console.log(chartData);
         });
     },[]);
 
